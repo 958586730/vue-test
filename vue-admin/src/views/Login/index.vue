@@ -9,7 +9,7 @@
 export default {
 
 }
-</script>``
+</script>
 <style lang="scss" scoped>
 .card {
     height: 50vh;
